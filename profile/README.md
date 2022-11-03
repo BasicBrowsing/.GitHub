@@ -12,11 +12,15 @@ privacy and security features together.
 
 ## Community
 
+<br>
+
 [![Button Matrix]][Matrix]
 
 <br>
 
 ## Information
+
+<br>
 
 [![Button Development]][Development]  
 [![Button Press Kit]][Press Kit]
@@ -27,6 +31,8 @@ privacy and security features together.
 <br>
 
 ## Source Code
+
+<br>
 
 [![Button StandardLibrary]][StandardLibrary]  
 [![Button Translation]][Translation]
