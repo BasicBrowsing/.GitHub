@@ -1,6 +1,11 @@
 
 <br>
 
+[![Button Matrix]][Matrix]
+
+<br>
+<br>
+
 This is a work - in - progress, all - in - one Firefox  
 addon that aims to bring most of the common  
 privacy and security features together.
@@ -29,3 +34,7 @@ that any projects derived from the forked code,
 not use the same branding ( Name , Logo , .. )
 
 <br>
+
+[Matrix]: https://matrix.to/#/#BasicBrowsing:matrix.org
+
+[Button Matrix]: https://img.shields.io/badge/Matrix-518baa?style=for-the-badge&logoColor=white&logo=Matrix
