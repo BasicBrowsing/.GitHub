@@ -1,16 +1,23 @@
 
 <br>
 
-<div align = right>
+<a href = 'https://github.com/BasicBrowsing/BasicBrowsing' >
+    <img 
+        align = left
+        title = 'Give us a star if you like this project.'
+        src = 'https://img.shields.io/github/stars/BasicBrowsing?style=for-the-badge&logoColor=white&logo=Trustpilot&labelColor=FF66AA&color=cf538b'
+    />
+</a>
+<a href = 'https://matrix.to/#/#BasicBrowsing:matrix.org' >
+    <img
+        width = 48
+        align = right
+        title = 'Join us on our Matrix server'
+        src = 'https://raw.githubusercontent.com/BasicBrowsing/.GitHub/main/Assets/Matrix.svg'
+    />
+</a>
 
-[<img
-    width = 48
-    title = 'Join us on our Matrix server'
-    src = 'https://raw.githubusercontent.com/BasicBrowsing/.GitHub/main/Assets/Matrix.svg'
-/>][Matrix]
-
-</div>
-
+<br>
 <br>
 
 <div align = center>
@@ -90,6 +97,9 @@ not use the same branding ( Name , Logo , .. )
 [Manifest]: https://github.com/BasicBrowsing/Manifest
 [Security]: https://github.com/BasicBrowsing/Security
 [Settings]: https://github.com/BasicBrowsing/Settings
+
+
+[#]: #
 
 
 <!---------------------------------[ Buttons ]--------------------------------->
