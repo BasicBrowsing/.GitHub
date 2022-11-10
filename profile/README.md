@@ -6,7 +6,7 @@
 [<img
     width = 48
     title = 'Join us on our Matrix server'
-    src = '../Assets/Matrix.svg'
+    src = 'https://github.com/BasicBrowsing/.GitHub/blob/main/Assets/Matrix.svg'
 />][Matrix]
 
 </div>
