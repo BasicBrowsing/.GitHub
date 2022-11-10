@@ -1,18 +1,23 @@
 
 <br>
 
+<div align = right>
+
+[<img
+    width = 48
+    title = 'Join us on our Matrix server'
+    src = '../Assets/Matrix.svg'
+/>][Matrix]
+
+</div>
+
+<br>
+
 <div align = center>
 
 This is a work - in - progress, all - in - one Firefox  
 addon that aims to bring most of the common  
 privacy and security features together.
-
-<br>
-
-
-## Community
-
-[![Button Matrix]][Matrix]
 
 <br>
 
