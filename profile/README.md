@@ -60,7 +60,11 @@
 
 ## Features
 
-[![Button UserAgent]][UserAgent]
+[<img
+    width = 48
+    title = 'Only the most commonly useragent is used.'
+    src = 'https://raw.githubusercontent.com/BasicBrowsing/.GitHub/main/Assets/Features/UserAgent.svg'
+/>][UserAgent]
 
 </div>
 
@@ -127,4 +131,4 @@ not use the same branding ( Name , Logo , .. )
 [Button Settings]: https://img.shields.io/badge/Settings-61a699?style=for-the-badge&logoColor=white&logo=ROS
 [Button Matrix]: https://img.shields.io/badge/Matrix-61a699?style=for-the-badge&logoColor=white&logo=Matrix
 
-[Button UserAgent]: https://raw.githubusercontent.com/BasicBrowsing/.GitHub/main/Assets/Features/UserAgent.svg
+
