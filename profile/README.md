@@ -62,7 +62,7 @@
 
 [<img
     width = 48
-    title = 'Only the most commonly useragent is used.'
+    title = 'Only the most common useragent is used.'
     src = 'https://raw.githubusercontent.com/BasicBrowsing/.GitHub/main/Assets/Features/UserAgent.svg'
 />][UserAgent]
 
