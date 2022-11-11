@@ -8,6 +8,13 @@
         src = 'https://img.shields.io/github/stars/BasicBrowsing?style=for-the-badge&logoColor=white&logo=Trustpilot&labelColor=FF66AA&color=cf538b'
     />
 </a>
+<a href = 'https://github.com/orgs/BasicBrowsing/projects'>
+    <img
+        align = left
+        title = 'This project is hasn't been released yet'
+        src = 'https://img.shields.io/badge/Status-Work--In--Progress-518a7f?style=for-the-badge&logoColor=white&logo=Bookstack&labelColor=61a699'
+    />
+</a>
 <a href = 'https://matrix.to/#/#BasicBrowsing:matrix.org' >
     <img
         width = 48
@@ -22,10 +29,6 @@
 <br>
 
 <div align = center>
-
-This is a work - in - progress, all - in - one Firefox  
-addon that aims to bring most of the common  
-privacy and security features together.
 
 <br>
 
